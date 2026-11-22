@@ -5,9 +5,9 @@
     "name": "QipIM",
     "summary": "ICQ/OSCAR и Jabber/XMPP совместимый IM клиент",
     "description": "Нативный клиент для Win10 и Win11 с UI максимально близким к Qip2005.\n Код клиента написан с учетом требований Win10 и Win11. \n Реализованы все основные функции клиентов ICQ. \b Реализована поддержка нескольких OSCAR аккаунтов от разных серверов. \n",
-    "icon": "https://i.postimg.cc/grPPd9bM/qipim-512-white.png",
+    "icon": "https://raw.githubusercontent.com/Symnok/QipIM-Windows/main/screenshots/qipim-512-white.png",
     "screenshots": [
-        "https://i.postimg.cc/NjpZC2F6/Qip-IM.jpg"
+        "https://raw.githubusercontent.com/Symnok/QipIM-Windows/main/screenshots/screenshot1.jpg",
     ],
     "category": "client",
     "license": "freeware",
